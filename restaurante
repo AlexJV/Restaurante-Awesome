@@ -7,5 +7,13 @@
       <h1>Bienvenidos a la comida definitiva</h1>
       <p>Aquí comeréis delicias sin parangón</p>
       <p>Disfrutaréis de manjares sin comparación</p>
+      
+      <img src="imágenes/imagen1.PNG" width="150" height="200">
+      <img src="imágenes/imagen2.PNG" width="150" height="200">
+      <img src="imágenes/imagen3.PNG" width="150" height="200">
+      <img src="imágenes/imagen4.PNG" width="150" height="200">
+      <img src="imágenes/imagen5.PNG" width="150" height="200">
+      <img src="imágenes/imagen6.PNG" width="150" height="200">
+      
    </body>
 </html>
